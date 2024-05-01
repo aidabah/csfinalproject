@@ -12,5 +12,12 @@ Normalized data frame
 Created a boxplot of entire data set to see major outliers 
 Created a heat map that shows the highest correlated columns to price
 
+3) Models:
+Linear Regression models
+Ridge regression 
+Random Forest 
+KMeans 
 
-4) SQL Model
+4) SQL Model:
+Created 4 tables to categorize our data based on related columns
+properties, features, financial, furnishing_status
